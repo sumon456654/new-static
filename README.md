@@ -1,0 +1,2 @@
+# new-static
+new static
